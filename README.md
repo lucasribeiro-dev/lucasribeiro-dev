@@ -1,73 +1,42 @@
-# 💻 Lucas Ribeiro
-
-Hi there 👋
-
-
-I'm Lucas, a full-stack developer with a passion for software and technology. This is my place where I share my journey and experiences in the tech world.
+## Lucas Ribeiro | Software Engineer
 
 ---
 
-### 🧰 Languages and Tools
+### Languages
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<!-- <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Azure DevOps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<br />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+### Backend
 
-#
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
-###  Latest Articles
+### Frontend
 
-<!-- BEGIN ARTICLES-CARDS -->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<table>
-  <tr>
-    <!-- Article Card 1 -->
-    <td align="center" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong> My 1–2 Year Path as a Software Developer </strong></p>
-      <a href="https://medium.com/@lucasribeiro-dev/my-1-2-year-path-as-a-software-developer-89a08031dbac">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*BOITPzC2ZXuKzRI_" alt="Article 1" width="300" height="150" />
-      </a>
-      <p>This Article I share little about my certification plans.</p>
-      <a href="https://medium.com/@lucasribeiro-dev/my-1-2-year-path-as-a-software-developer-89a08031dbac"><strong>Read me </strong></a>
-    </td>
-    <!-- Article Card 2 -->
-    <td align="center" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong>Why did I start using Vim to code </strong></p>
-      <a href="https://medium.com/@lucasribeiro-dev/why-did-i-start-using-vim-to-code-13b5506197be">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*GwZsQ8vZT7LBLDvx.png" alt="Why did I start using Vim to code" width="300" height="150" />
-      </a>
-      <p>Why I would change my texto editor after years?</p>
-      <a href="https://medium.com/@lucasribeiro-dev/why-did-i-start-using-vim-to-code-13b5506197be"><strong>Read me</strong></a>
-    </td>
-    <!-- Article Card 3 -->
-    <td align="center" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p><strong> Scrum: The Path to Success! </strong></p>
-      <a href="https://medium.com/@lucasribeiro-dev/unraveling-the-project-maze-with-scrum-the-path-to-success-f83f3efa0c36">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*X5DZxS2QbTTqB_oe" alt="Article 3" width="300" height="150" />
-      </a>
-      <p>I got Scrum certification and this all I learned</p>
-      <a href="https://medium.com/@lucasribeiro-dev/unraveling-the-project-maze-with-scrum-the-path-to-success-f83f3efa0c36"><strong>Read me</strong></a>
-    </td>
-  </tr>
-</table>
+### Infrastructure
 
-
-
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-web-lucas-ribeiro/) &nbsp;  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://imlucas.dev/)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-web-lucas-ribeiro/)
+[![Website](https://img.shields.io/badge/imlucas.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://imlucas.dev/)
